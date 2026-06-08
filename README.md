@@ -110,4 +110,4 @@ Example:
 
 
    ```bash
-   streamlit app.py
+ streamlit run app.py
